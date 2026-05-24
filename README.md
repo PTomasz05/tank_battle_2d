@@ -49,7 +49,7 @@ tank_battle_2d/
 ## 🛠️ Run locally
 ``` text
 # Clone the repository
-git clone [https://github.com/YourUsername/tank_battle_2d.git](https://github.com/YourUsername/tank_battle_2d.git)
+git clone https://github.com/PTomasz05/tank_battle_2d.git
 cd tank_battle_2d
 
 # Install dependencies

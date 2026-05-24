@@ -44,3 +44,16 @@ tank_battle_2d/
 ├── README.md
 ├── requirements.txt # Project dependencies
 └── settings.py     # Global configurations and constants
+
+```
+## 🛠️ Run locally
+``` text
+# Clone the repository
+git clone [https://github.com/YourUsername/tank_battle_2d.git](https://github.com/YourUsername/tank_battle_2d.git)
+cd tank_battle_2d
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the game
+python main.py
